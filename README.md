@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishnu Prasad | Software Developer | Android | Backend | Cloud Enthusiast</h1>
-<h3 align="center">I’m a passionate software developer currently pursuing B.Tech in Computer Science at IIIT Kottayam, with a deep passion for creating impactful solutions. My expertise spans Android development, backend engineering, and cloud technologies. I’m proficient in Kotlin, Java, Python, and have worked extensively with frameworks like Spring Boot, Android SDK, and RESTful APIs. With a strong foundation in problem-solving and leadership, I’ve successfully led teams and participated in nationwide hackathons. I thrive in dynamic environments and love collaborating with others to build scalable, user-centric applications. Always eager to learn and grow, I stay updated with the latest technologies to deliver high-quality solutions.</h3>
+<h3 align="center">
+I’m a passionate software developer pursuing B.Tech in Computer Science at IIIT Kottayam, with expertise in Android development, backend engineering, and cloud technologies. Proficient in Kotlin, Java, and Python, I’ve worked with frameworks like Spring Boot and Android SDK. I’ve led teams, participated in hackathons, and enjoy building scalable, user-centric applications. Eager to keep learning and stay updated with the latest tech to deliver impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish9431&label=Profile%20views&color=0e75b6&style=flat" alt="vish9431" /> </p>
 
